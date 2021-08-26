@@ -147,7 +147,8 @@ def hitmeup(message):
     bot.send_message(chatID, "Looking for deals...")
     while forum and watchList and flag:
       for submission in submissionsWithinAWeek(forum): # 7 day period brand in watchList: 
-        bot.send_message(chatID, f"{submission.title}")
+        # bot.send_message(chatID, f"{submission.title}") 
+        # this line is for debugging purposes.
         if flag:
           for brand in watchList:
             title = submission.title.lower().split() #title is now an array of words
