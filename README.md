@@ -4,33 +4,33 @@ This Bot will scan through all deals within the most recent 7-day period, in a c
 
 You can find this bot via @frugal_fashion_bot on telegram!
 
-### How to use
+## How to use
 
-##### /start
+#### /start
 This command starts up the Bot.
 
-##### /male
+#### /male
 Sets the user's gender preference to "Male" and tells the Bot to watch r/frugalmalefashion.
 
-##### /female
+#### /female
 Sets the user's gender preference to "Female" and tells the Bot to watch r/FrugalFemaleFashion.
 
-##### /gender
+#### /gender
 To view current gender prefereence.
 
-##### /addbrand brand
+#### /addbrand brand
 Adds the brand to a watch list. The Bot will look out deals according to the brands in the user's watch list.
 Users are encouraged to add popular abbreviations related to the brands taht they want to look out for. For instance,
 users should add "CDG" on top of adding "Comme des Garçons"
 
-##### /watchlist
+#### /watchlist
 Displays all brands on the user's watch list.
 
-##### /remove brand
+#### /remove brand
 Removes the particular brand from the user's watch list.
 
-##### /hmu 
+#### /hmu 
 Tells the Bot to start feeding you with deals (if any)
 
-##### /stop
+#### /stop
 Stops the Bot from feeding you deals.
