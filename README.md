@@ -20,7 +20,7 @@ To view current gender prefereence.
 
 ### /addbrand brand
 Adds the brand to a watch list. The Bot will look out deals according to the brands in the user's watch list.
-Users are encouraged to add popular abbreviations related to the brands taht they want to look out for. For instance,
+Users are encouraged to add popular abbreviations related to the brands that they want to look out for. For instance,
 users should add "CDG" on top of adding "Comme des Garçons"
 
 ### /watchlist
